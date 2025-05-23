@@ -15,8 +15,8 @@ A Django web application implementing multi-app user authentication and profile 
 - [URLs and Views](#urls-and-views)
 - [Templates](#templates)
 - [Future Improvements](#future-improvements)
+- [Credits](#credits)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
