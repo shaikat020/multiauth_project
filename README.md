@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Multiauth_Project.png" width="300" alt="Multi-authentication Project">
+</p>
+
 # <h1 align="center"> MultiAuth Django Project </h1>
 
 A Django web application implementing multi-app user authentication and profile management with a custom user model.
