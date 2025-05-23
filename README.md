@@ -168,6 +168,12 @@ All templates use simple CSS styling and Django messages framework for user feed
 
 Built with Django by **Md Tahsin Azad Shaikat**
 
+CSE Undergraduate | Backend Developer | Robotics & IoT Enthusiast
+
+🔗 [LinkedIn](https://www.linkedin.com/in/mdtahsinazad020/)
+
+🐙 [GitHub](https://github.com/shaikat020)
+
 Assisted by **Md Rakibul Hassan**
 
 CSE Undergraduate | Backend Developer | Robotics & IoT Enthusiast
