@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Multiauth_Project.png" width="300" alt="Multi-authentication Project">
+  <img src="Multiauth_Project.png" width="600" alt="Multi-authentication Project">
 </p>
 
 # <h1 align="center"> MultiAuth Django Project </h1>
